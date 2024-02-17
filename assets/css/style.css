@@ -1027,3 +1027,10 @@ iconify-icon {
   color: #fff;
   text-decoration: none;
 }
+
+/*--------------------------------------------------------------
+# Text Config
+--------------------------------------------------------------*/
+.text-justify {
+  text-align: justify;
+}
